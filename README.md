@@ -1,4 +1,4 @@
-
+hello sir 
 # Financial Advice Agent
 
 Financial Advice Agent is an AI-powered assistant built using LangGraph. It provides financial insights by analyzing cryptocurrency prices and relevant news articles. The architecture is designed for modularity and efficiency, leveraging AI-powered tools for extracting, retrieving, analyzing, and reporting financial data.
